@@ -1,3 +1,10 @@
+import 'core-js/modules/es.object.values';
+import 'core-js/modules/es.array.for-each';
+import 'core-js/modules/web.dom-collections.for-each';
+import 'core-js/modules/es.array.includes';
+import 'core-js/modules/es.string.starts-with';
+import 'core-js/modules/es.object.assign';
+
 import mi18n from 'mi18n'
 import utils, { parseXML } from './utils'
 import events from './events'
